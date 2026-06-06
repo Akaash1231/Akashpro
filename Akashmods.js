@@ -106,7 +106,7 @@
         width:100%;background:#229ED9;color:#fff;border:none;
         padding:12px;border-radius:8px;font-weight:700;cursor:pointer;
         font-size:14px;letter-spacing:0.5px;
-        box-shadow:0 4px 12px rgba(34,158,217,0.25);">DM FOR KEY</button>
+        box-shadow:0 4px 12px rgba(34,158,217,0.25);">OWNER DM</button>
 
       <div id="rama-status" style="margin-top:16px;font-size:11px;font-weight:700;
                                    color:#64748b;letter-spacing:1.5px;">AKASH MODS</div>
